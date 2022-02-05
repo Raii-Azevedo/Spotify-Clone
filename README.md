@@ -17,7 +17,7 @@
 ## Links
  
   - Link of deployed application: (Heroku)
-  - Repository: 
+  - Repository: https://github.com/Raii-Azevedo/Spotify-Clone
  
  
 ## Authors
